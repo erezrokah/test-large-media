@@ -8,6 +8,4 @@
     NODE_VERSION = "12"
     
 [[plugins]]
-package = "netlify-plugin-nimbella"
-[plugins.inputs]
-functions = "functions" 
+package = "@netlify/plugin-sitemap"

@@ -26,11 +26,10 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.0.0",
     "husky": "^4.0.7",
-    "netlify-plugin-nimbella": "^1.7.0",
     "prettier": "^2.0.0"
   },
   "dependencies": {
-    "nimbella-cli": "https://apigcp.nimbella.io/downloads/nim/nimbella-cli.tgz"
+    "@netlify/plugin-sitemap": "^0.5.1"
   },
   "husky": {
     "hooks": {
